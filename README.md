@@ -11,3 +11,8 @@ Getting Started:
 3. Run rake db:migrate
 
 Phrasing examples can be found in app>views>pages>about.html.erb
+
+IMPORTANT
+--------
+
+After each push to Heroku, you will need to log into or out of the site for any created/edited phrases to display.
